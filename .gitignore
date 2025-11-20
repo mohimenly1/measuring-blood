@@ -1,0 +1,35 @@
+# Flutter
+blood_pressure_app/.dart_tool/
+blood_pressure_app/.flutter-plugins
+blood_pressure_app/.flutter-plugins-dependencies
+blood_pressure_app/.packages
+blood_pressure_app/.pub-cache/
+blood_pressure_app/.pub/
+blood_pressure_app/build/
+blood_pressure_app/.ios/
+blood_pressure_app/.android/
+
+# Python
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/.Python
+backend/env/
+backend/venv/
+backend/.venv
+backend/uploads/
+backend/models/*.h5
+backend/.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
